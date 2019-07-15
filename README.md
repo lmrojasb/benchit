@@ -1,6 +1,6 @@
 # Bench'It
 General Knowledge Evaluation dataset for Question Answering on Wikidata.
-It contains 150 open ended questions in French, from which 140 questions expect  a single answer while 10 questions expect a list of Wikidata entities. 
+It contains 150 open ended questions in French. 
 
 Histogram:
 =============
